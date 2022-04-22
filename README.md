@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bscarp
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning REDCap
+- 💞️ I’m looking to collaborate on disability research
+- 📫 How to reach me: Bradley.Carpenter@mrc.ac.za
